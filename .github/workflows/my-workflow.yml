@@ -17,4 +17,4 @@ jobs:
 
       - name: print
         run: |
-          echo ${{steps.ha-ha.outputs.joke-output}}
+          echo "${{steps.ha-ha.outputs.joke-output}}"
