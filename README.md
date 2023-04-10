@@ -19,7 +19,7 @@ _Write your own GitHub JavaScript Action and automate customized tasks unique to
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow.
@@ -49,7 +49,7 @@ Write your own GitHub JavaScript Action and automate customized tasks unique to 
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 
 <summary><h2> Step 1: Initialize a new JavaScript project</h2></summary>
 
