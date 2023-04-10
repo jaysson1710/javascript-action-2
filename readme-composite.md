@@ -1,3 +1,5 @@
+## Error permissions:
+
 That most likely means that your ./.github/scripts/backend_decrypt.sh script doesn’t have the “execute” filesystem permission set. I assume you’re developing on Windows locally, which doesn’t have that kind of permission system.
 
 You can tell git to add the permission anyway with this command:
