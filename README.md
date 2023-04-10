@@ -394,7 +394,7 @@ _Don't forget to call the `run()` function._
 
 </details>
   
-<details id=5 open>
+<details id=5>
 <summary><h2> Step 5: Add your action to the workflow file</h2></summary>
 
 _Great job! :tada:_
@@ -450,7 +450,7 @@ Everything is all set up and now we are ready to start laughing. You will find y
  
 </details>
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 <img src=https://octodex.github.com/images/poptocat_v2.png alt=celebrate width=300 align=right>
