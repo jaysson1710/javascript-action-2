@@ -20,7 +20,7 @@ jobs:
           echo "${{steps.ha-ha.outputs.joke-output}}"
 
       - id: foo
-        uses: actions/composite-action
+        uses: ./.github/actions/composite-action
         with:
           who-to-greet: 'Mona the Octocat'
       - run: echo random-number ${{ steps.foo.outputs.random-number }}
